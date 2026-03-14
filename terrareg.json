@@ -1,0 +1,7 @@
+{
+  "description": "Azure - User Assigned Managed Identity",
+  "owner": "buildcloudio",
+  "source": "https://github.com/buildcloudio/terraform-azurerm-user-assigned-identity",
+  "issues": "https://github.com/buildcloudio/terraform-azurerm-user-assigned-identity/issues",
+  "email": ""
+}
