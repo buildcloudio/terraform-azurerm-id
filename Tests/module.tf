@@ -1,4 +1,4 @@
-module "buildcloudio_azure_user_assigned_identity" {
+module "buildcloudio_azure_id" {
   for_each            = { for each in var.user_assigned_identities : each.usecase => each }
   source              = "../"
   subscription        = each.value.subscription
